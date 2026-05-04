@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rahul 👋
 
-<!--
-**rahul-saini-code/rahul-saini-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA (Hons) in Artificial Intelligence & Machine Learning
+🏫 Lovely Professional University (in collaboration with IBM)
 
-Here are some ideas to get you started:
+💡 Aspiring Machine Learning Engineer passionate about building data-driven solutions and real-world ML applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 📊 Currently learning Data Science & Machine Learning
+* 💻 Practicing DSA for problem-solving
+* 🧠 Interested in AI, ML, and intelligent systems
+* 🎯 Goal: To become a skilled ML Engineer and work on impactful projects
+
+---
+
+## 🛠️ Skills & Tools
+
+* **Languages:** Python, C++ , Java
+* **Libraries:** NumPy, Pandas, Matplotlib , Seaborn
+* **Machine Learning:** Scikit-learn (learning)
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📚 Currently Learning
+
+* Supervised & Unsupervised Learning
+* Data Preprocessing & Feature Engineering
+* Model Evaluation Techniques
+* ML Project Development
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/rahul-saini-code
+
+
